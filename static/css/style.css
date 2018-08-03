@@ -28,9 +28,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* NAV */
-/*.nav-wrapper, .sidenav a, .sidenav i {
-  color: #eee !important;
-}*/
+#mobile-nav {
+  padding-left: 0;
+}
 .nav-wrapper ul li a {
   text-transform: uppercase;
 }
