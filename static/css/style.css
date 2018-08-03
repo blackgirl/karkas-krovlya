@@ -294,6 +294,9 @@ img.product-model {
 }
 
 @media only screen and (max-width: 992px) {
+  #carousel {
+    display: none;
+  }
   .carousel-item-title {
     font-size: 2em;
   }
