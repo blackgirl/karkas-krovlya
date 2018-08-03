@@ -28,9 +28,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* NAV */
-.nav-wrapper, .sidenav a, .sidenav i {
+/*.nav-wrapper, .sidenav a, .sidenav i {
   color: #eee !important;
-}
+}*/
 .nav-wrapper ul li a {
   text-transform: uppercase;
 }
@@ -137,7 +137,6 @@ nav {
 }
 .btn, .btn-large, .btn-small {
   text-decoration: none;
-  /*color: #fff;*/
   background-color: #fff;
   text-align: center;
   letter-spacing: .5px;
@@ -148,7 +147,6 @@ nav {
 }
 .btn:hover, .btn-large:hover, .btn-small:hover {
   background: none;
-  /*border: 1px solid #039be5;*/
   text-decoration: underline;
   color: #039be5;
   box-shadow: none;
@@ -165,7 +163,6 @@ nav {
   color: #222;
   font-size: 18px;
   text-transform: uppercase;
-  /*font-family: "Helvetica Neue";*/
   letter-spacing: 1px;
   font-weight: 500;
 }
@@ -181,7 +178,6 @@ nav {
   padding: 0 24px;
   text-align: right;
 }
-
 
 /* DELIVERY */
 .delivery-item {
