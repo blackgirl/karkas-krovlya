@@ -5142,6 +5142,7 @@ input[type=range].focused: focus: not(.active)::-moz-range-thumb, input[type=ran
     left: 50%;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
+    white-space: nowrap;
   }
   nav .brand-logo.left, nav .brand-logo.right {
     -webkit-transform: none;
