@@ -294,6 +294,9 @@ img.product-model {
 }
 
 @media only screen and (max-width: 992px) {
+  .carousel-item-title {
+    font-size: 2em;
+  }
   .delivery-item .content-ckeditor {
     width: 100%;
     padding-left: 0px;
