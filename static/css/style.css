@@ -31,8 +31,14 @@ h1, h2, h3, h4, h5, h6 {
 #mobile-nav {
   padding-left: 0;
 }
+
+#mobile-nav ul li a,
 .nav-wrapper ul li a {
   text-transform: uppercase;
+}
+#mobile-nav ul a i,
+nav ul a i {
+  color: #039be5;
 }
 .nav-wrapper ul li a.active {
   color: yellow;
