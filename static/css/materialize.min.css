@@ -4150,7 +4150,7 @@ input[type=range]::-ms-thumb {
   width: 300px;
   left: 0;
   top: 0;
-  height: 0;
+  height: 100%;
   padding-bottom: 60px;
   background-color: #fff;
   z-index: 999;
