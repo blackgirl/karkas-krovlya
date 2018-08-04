@@ -313,6 +313,9 @@ img.product-model {
   .carousel.carousel-slider .carousel-item p {
     font-size: 15px;
   }
+  .card .card-content .card-title + p {
+    display: none;
+  }
   #map {
     width: 120%;
     left: -10%;
