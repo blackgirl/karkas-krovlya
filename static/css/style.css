@@ -296,6 +296,10 @@ img.product-model {
 }
 
 @media only screen and (max-width: 992px) {
+  .container {
+    max-width: 100%; 
+    width: auto;
+  }
   #carousel {
     display: none;
   }
