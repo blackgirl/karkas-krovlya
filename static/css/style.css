@@ -313,4 +313,8 @@ img.product-model {
   .carousel.carousel-slider .carousel-item p {
     font-size: 15px;
   }
+  #map {
+    width: 120%;
+    left: -10%;
+  }
 }
